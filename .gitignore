@@ -1,0 +1,51 @@
+# Dependency directories
+/node_modules
+
+# Environment variables
+.env
+
+# Built output
+/dist
+
+# Logs
+/logs
+
+# IDE specific files
+.vscode
+.idea
+
+# Operating System files
+.DS_Store
+
+# NPM debugging logs
+npm-debug.log*
+
+# Yarn debugging logs
+yarn-debug.log*
+yarn-error.log*
+
+# IDE specific files and folders
+/.vscode
+/.idea
+
+# System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Compiled binary addons (e.g., node-sass)
+/build/Release
+
+# Local environment variables
+/.env.local
+
+# Testing files
+/coverage
